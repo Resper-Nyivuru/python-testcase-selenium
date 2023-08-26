@@ -1,0 +1,8 @@
+# Install Python
+# Install selenium through the Command Line
+    - python -m pip install selenium
+# Get the chrome webdriver that matches the version of your current chrome browser
+# Extract the folder and add it to your systems path directory
+# Create a testcase of the system you want to test in a word or Excel document
+# Open any code editor of your choice e.g VS Code
+# Edit the code to match your prepared test case.

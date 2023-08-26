@@ -15,11 +15,10 @@ login_button = driver.find_element(by='xpath', value='/html/body/app-root/app-he
 # Enter the login credentials
 contact.send_keys("respernyivuru@gmail.com")
 
-
 # Click the login button
 login_button.click()
 
-# Add a small delay to allow page loading
+# Add a small delay to allow page loading (optional)
 time.sleep(10)
 
 # Close the browser
